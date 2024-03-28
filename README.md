@@ -1,5 +1,5 @@
 # 💫 About Me:
-🇺🇦 Ukraine<br>👨‍🎓 Student<br>💻 PCAP-31-03, CompTIA A+, CompTIA Network+ (In progress)<br>👮‍♂️ Cybersecurity enthusiast
+🇺🇦 Ukraine<br>👨‍🎓 Student<br>💻 PCAP-31-03, CompTIA A+, CompTIA Network+, CompTIA CIOS<br>👮‍♂️ Cybersecurity enthusiast
 
 # 💻 Tech Stack:
 Languages:
