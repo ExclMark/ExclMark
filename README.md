@@ -1,7 +1,17 @@
 # 💫 About Me:
-🇺🇦 Ukraine<br>👨‍🎓 Student<br>💻 PCAP-31-03, CompTIA A+, CompTIA Network+, CompTIA CIOS<br>👮‍♂️ Cybersecurity enthusiast
+🇺🇦 Ukraine<br>👨‍🎓 Student
 <br><br>🌐 [3xcl.dev](https://3xcl.dev)
 # 💻 Tech Stack:
+Certs:
+<p>
+    <img src="https://github.com/user-attachments/assets/7c482e86-46bd-44a2-9a01-67e08d7c9bd0" width="96" alt="PCAP 31-03">
+    <img src="https://github.com/user-attachments/assets/7e558271-22ae-4bd2-afd9-c3f9f0cf0bf0" width="96" alt="CompTIA CIOS">
+    <img src="https://github.com/user-attachments/assets/61b02964-206d-4e57-9d9d-a036a6c576ad" width="96" alt="CompTIA Network+">
+    <img src="https://github.com/user-attachments/assets/6ed5d9ec-045d-493a-b940-589f0b848101" width="96" alt="CompTIA A+">
+    <img src="https://github.com/user-attachments/assets/3dc241f2-b15e-4f24-8349-7760ba65fa82" width="96" alt="Cisco Networking Essentials">
+    <img src="https://github.com/user-attachments/assets/0313e378-b396-43a0-acf5-f6b072e747ad" width="96" alt="Cisco Cybersecurity Essentials">
+</p>
+
 Languages:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
