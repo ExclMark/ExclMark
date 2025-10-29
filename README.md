@@ -1,6 +1,6 @@
 # 💫 About Me:
 🇺🇦 Ukraine<br>👨‍🎓 Student @ TU Dublin
-<br><br>🌐 [3xcl.dev](https://3xcl.dev)
+<br><br>🌐 [excl.sh](https://excl.sh)
 # 💻 Tech Stack:
 Certs:
 <p>
