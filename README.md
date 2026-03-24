@@ -1,6 +1,10 @@
-# 💫 About Me:
-🇺🇦 Ukraine<br>👨‍🎓 Student @ TU Dublin
-<br><br>🌐 [excl.sh](https://excl.sh)
+<img width="1936" height="310" alt="img" src="https://github.com/user-attachments/assets/6f962e49-8c49-4de3-a0cb-d390bbf55a25" />
+
+<div align="center">
+    AI/ML student @ TUD <br>
+    <a href="https://excl.sh">excl.sh<a>
+</div>
+
 # 💻 Tech Stack:
 Certs:
 <p>
