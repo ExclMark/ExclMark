@@ -1,61 +1,23 @@
-<img width="1936" height="310" alt="img" src="https://github.com/user-attachments/assets/6f962e49-8c49-4de3-a0cb-d390bbf55a25" />
-
 <div align="center">
-    AI/ML student @ TUD <br>
-    <a href="https://excl.sh">excl.sh<a>
+  <img width="100%" alt="Header" src="https://github.com/user-attachments/assets/6f962e49-8c49-4de3-a0cb-d390bbf55a25" />
+  <br>
+  <h3>AI/ML student @ TUD | <a href="https://excl.sh">excl.sh</a></h3>
+    
+### 𝙘𝙚𝙧𝙩𝙨
+| Company | Certifications |
+|---|---|
+| **Python Institute** | ![PCAP 31-03](https://img.shields.io/badge/PCAP%2031--03-F0F0F0?style=for-the-badge&logo=python&logoColor=000000) |
+| **CompTIA** | ![CIOS](https://img.shields.io/badge/CIOS-C0C0C0?style=for-the-badge) ![Network+](https://img.shields.io/badge/Network+-C0C0C0?style=for-the-badge) ![A+](https://img.shields.io/badge/A+-C0C0C0?style=for-the-badge) |
+| **Cisco** | ![Networking Ess.](https://img.shields.io/badge/Networking%20Ess.-F0F0F0?style=for-the-badge&logo=cisco&logoColor=000000) ![Cybersecurity Ess.](https://img.shields.io/badge/Cybersecurity%20Ess.-F0F0F0?style=for-the-badge&logo=cisco&logoColor=000000) ![Intro to IoT](https://img.shields.io/badge/Intro%20to%20IoT-F0F0F0?style=for-the-badge&logo=cisco&logoColor=000000) |
+| **AWS** | ![Cloud Foundation](https://img.shields.io/badge/Cloud%20Foundation-C0C0C0?style=for-the-badge) ![Gen AI Foundation](https://img.shields.io/badge/Gen%20AI%20Foundation-C0C0C0?style=for-the-badge) |
+| **Anthropic** | ![Claude Code 101](https://img.shields.io/badge/Claude%20Code%20101-F0F0F0?style=for-the-badge&logo=anthropic&logoColor=000000) ![Claude Code in Action](https://img.shields.io/badge/Claude%20Code%20in%20Action-F0F0F0?style=for-the-badge&logo=anthropic&logoColor=000000) ![Intro to Agent Skills/Subagents](https://img.shields.io/badge/Intro%20to%20Agent%20Skills-F0F0F0?style=for-the-badge&logo=anthropic&logoColor=000000) |
+
+### 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠
+| Category | Technologies |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/python-C0C0C0?style=for-the-badge&logo=python&logoColor=000000) ![Java](https://img.shields.io/badge/java-C0C0C0?style=for-the-badge&logo=openjdk&logoColor=000000) ![C](https://img.shields.io/badge/c-C0C0C0?style=for-the-badge&logo=c&logoColor=000000) ![Swift](https://img.shields.io/badge/swift-C0C0C0?style=for-the-badge&logo=swift&logoColor=000000) ![HTML5](https://img.shields.io/badge/html5-C0C0C0?style=for-the-badge&logo=html5&logoColor=000000) ![CSS3](https://img.shields.io/badge/css3-C0C0C0?style=for-the-badge&logo=css3&logoColor=000000) ![JavaScript](https://img.shields.io/badge/javascript-C0C0C0?style=for-the-badge&logo=javascript&logoColor=000000) |
+| **Tools & Frameworks** | ![Git](https://img.shields.io/badge/GIT-F0F0F0?style=for-the-badge&logo=git&logoColor=000000) ![REST](https://img.shields.io/badge/REST-F0F0F0?style=for-the-badge) ![Django](https://img.shields.io/badge/django-F0F0F0?style=for-the-badge&logo=django&logoColor=000000) |
+| **Databases** | ![Postgres](https://img.shields.io/badge/postgres-C0C0C0?style=for-the-badge&logo=postgresql&logoColor=000000) ![SQLite](https://img.shields.io/badge/sqlite-C0C0C0?style=for-the-badge&logo=sqlite&logoColor=000000) |
+| **Hosting & SaaS** | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-F0F0F0?style=for-the-badge&logo=digitalOcean&logoColor=000000) ![OVHCloud](https://img.shields.io/badge/OVHCloud-F0F0F0?style=for-the-badge&logo=ovh&logoColor=000000) ![AWS](https://img.shields.io/badge/AWS-F0F0F0?style=for-the-badge&logo=aws&logoColor=000000) ![Heroku](https://img.shields.io/badge/heroku-F0F0F0?style=for-the-badge&logo=heroku&logoColor=000000) ![Docker](https://img.shields.io/badge/docker-F0F0F0?style=for-the-badge&logo=docker&logoColor=000000) |
+
 </div>
-
-# 💻 Tech Stack:
-Certs:
-<p>
-    <img src="https://github.com/user-attachments/assets/7c482e86-46bd-44a2-9a01-67e08d7c9bd0" width="96" alt="PCAP 31-03">
-    <img src="https://github.com/user-attachments/assets/7e558271-22ae-4bd2-afd9-c3f9f0cf0bf0" width="96" alt="CompTIA CIOS">
-    <img src="https://github.com/user-attachments/assets/61b02964-206d-4e57-9d9d-a036a6c576ad" width="96" alt="CompTIA Network+">
-    <img src="https://github.com/user-attachments/assets/6ed5d9ec-045d-493a-b940-589f0b848101" width="96" alt="CompTIA A+">
-    <img src="https://github.com/user-attachments/assets/3dc241f2-b15e-4f24-8349-7760ba65fa82" width="96" alt="Cisco Networking Essentials">
-    <img src="https://github.com/user-attachments/assets/0313e378-b396-43a0-acf5-f6b072e747ad" width="96" alt="Cisco Cybersecurity Essentials">
-    <img src="https://github.com/user-attachments/assets/ff9b3cf8-a46e-4714-8b21-16ef024bfa52" width="96" alt="TU New Venture Design">
-</p>
-
-Languages:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
-
-Databases:
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-Operating Systems:
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
-Hosting/SaaS/Platforms:
-
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-Frameworks:
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-
-Other:
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ExclMark&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=ExclMark&icon=5&color=12)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
-<a href="https://www.buymeacoffee.com/excl_mark" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-BTC: **bc1qgtruztqc7mfn2mvy4g0hnjeu6hu3wknpr8r6nf**
-
-ETH: **0xF4388d44A9a6592C323bA4bF408E98815AA61628**
-
-  
